@@ -14,14 +14,15 @@ export default function Home() {
       "A scheduling app focused on showing room availability and helping users compare schedules.",
     tech: ["Next.js", "React", "CSS"],
     github: "https://github.com/duartemjoseph-spec",
-    live: "https://your-live-link.com",
+    
   },
   {
     title: "All For One Frontend",
     description:
       "A frontend project that connects to API endpoints and displays interactive responses for users.",
     tech: ["JavaScript", "Next.js", "API"],
-    github: "https://witty-sea-091134b1e.6.azurestaticapps.net",
+    github: "https://github.com/duartemjoseph-spec/AllForOnePtTwoJDUPDATED.git",
+    live: "https://witty-sea-091134b1e.6.azurestaticapps.net/"
   },
   {
     title: "PokeDex web app",
@@ -94,7 +95,7 @@ export default function Home() {
         <AnimatedContent>
           <div className="max-w-4xl rounded-[2rem] border border-white/15 bg-white/10 p-8 backdrop-blur-[6px] dark:bg-black/10 md:p-10">
             <p className="mb-4 text-sm uppercase tracking-[0.25em] text-zinc-600 dark:text-zinc-300">
-              Front-End Developer
+              Full-Stack Developer
             </p>
 
             <h2 className="text-6xl font-bold leading-tight tracking-tight md:text-8xl">
